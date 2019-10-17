@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/home/vagrant/development/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64_3.106.3.v20180329-0507.jar" sourcepath="/home/vagrant/development/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64.source_3.106.3.v20180329-0507.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/vagrant/development/eclipse/plugins/org.eclipse.platform.doc.isv_4.7.75.v20180328-1557.jar!/reference/api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/vagrant/development/eclipse/plugins/org.eclipse.jface_3.13.2.v20171022-1656.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/vagrant/development/eclipse/plugins/com.google.gson_2.7.0.v20170129-0911.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/vagrant/development/eclipse/plugins/org.eclipse.core.commands_3.9.0.v20170530-1048.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
